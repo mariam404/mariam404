@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mariam404
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning front-end
+- 👋 Hi, I’m Mariam Mahmoud Qassem
+- 👀 I’m interested in web design front-end feild
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me mm20984490@gmail.com
 
 <!---
